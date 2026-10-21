@@ -1,0 +1,2 @@
+# Pendeteksi-string
+Hahha maap
